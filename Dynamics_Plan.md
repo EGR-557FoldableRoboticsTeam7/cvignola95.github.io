@@ -29,5 +29,5 @@ Responsible for completition of section 1 and 3 of the [Dynamics 2 Plan](https:/
 
 ## Dallas
 
-## Mano
+## Manoj
 Responsible for section 2.
